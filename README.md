@@ -41,7 +41,7 @@ and much more!
 2:17:40 - Building our NavBar component\
 2:21:30 - Adding our AirBnB logo\
 2:23:35 - Adding a Cluster Map\
-2:30:25 - Conclusion\
+2:30:25 - Conclusion
 
 
 If you get stuck, the Sanity community I was talking about can be found here on the Sanity Exchange (https://www.sanity.io/exchange) and the Sanity Slack Community (https://slack.sanity.io/).
@@ -59,7 +59,7 @@ Sign up [here](https://bit.ly/JS-tips) for weekly coding tips from my newsletter
 
 You can also find me on:\
 Twitter: https://twitter.com/ania_kubow\
-Instagram: https://www.instagram.com/aniakubow\
+Instagram: https://www.instagram.com/aniakubow
 
 
 
