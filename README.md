@@ -19,7 +19,7 @@ Topics we will be touching on:
 
 and much more!
 
-0:00 - Introduction
+0:00 - Introduction/
 2:39 - Getting started with Sanity
 11:43 - Creating our Sanity Schemas
 24:55 - Creating PropertyImage Type
