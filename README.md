@@ -58,7 +58,7 @@ If you would like to buy me a coffee, well thank you very much that is mega kind
 Sign up [here](https://bit.ly/JS-tips) for weekly coding tips from my newsletter partnership.
 
 You can also find me on:\
-Twitter: https://twitter.com/ania_kubow\
+Twitter: https://twitter.com/ania_kubow \
 Instagram: https://www.instagram.com/aniakubow
 
 
