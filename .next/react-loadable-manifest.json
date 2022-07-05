@@ -1,0 +1,46 @@
+{
+  "./dev/noop": [
+    {
+      "id": "./node_modules/next/dist/client/dev/noop.js",
+      "file": "static/chunks/0.js"
+    }
+  ],
+  "@sanity/groq-store": [
+    {
+      "id": "./node_modules/@sanity/groq-store/dist/browser/groq-store.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/fast-deep-equal/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/groq-js/dist/groq-js.esm.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/mendoza/lib/esm/incremental-patcher.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/mendoza/lib/esm/index.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/mendoza/lib/esm/internal-patcher.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/mendoza/lib/esm/simple-patcher.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/mendoza/lib/esm/utf8.js",
+      "file": "static/chunks/1.js"
+    },
+    {
+      "id": "./node_modules/throttle-debounce/esm/index.js",
+      "file": "static/chunks/1.js"
+    }
+  ]
+}
