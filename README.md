@@ -81,3 +81,5 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
+# Intersection Observer API Intersection Observers allow the user to know when an observed element enters or exits the browser’s viewport. We can use Intersection Observers API to determine if a specific image is near the viewport, if so load the image otherwise don’t.
+
