@@ -10,17 +10,16 @@ const Property = ({
   location,
   propertyType,
   mainImage,
-  images,
+  images = [],
   pricePerNight,
   beds,
   bedrooms,
   description,
   host,
-  reviews,
+  reviews = [],
 }) => {
-  const reviewAmount = reviews.length
+  const reviewAmount = reviews?.length || 0
 
-  console.log(images)
   return (
     <div className="container">
       <h1>
@@ -32,7 +31,7 @@ const Property = ({
       <div className="images-section">
         <Image identifier="main-image" image={mainImage} />
         <div className="sub-images-section">
-          {images.map(({ _key, asset }, image) => (
+          {images?.map(({ _key, asset }) => (
             <Image key={_key} identifier="image" image={asset} />
           ))}
         </div>
